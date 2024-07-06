@@ -8,6 +8,6 @@
 
 + **Dataset:** [**AI-Generated vs Real-Images**](https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images/data)
 
-+ **Modelo:** DNN, 
++ **Modelo:** Sequential DNN
 
 [(code)](code.ipynb) [(video)]() [(repo)](https://github.com/creepstyC/ai-real-classifier)
