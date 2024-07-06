@@ -16,4 +16,4 @@ El dataset se divide en dos únicas carpetas que contienen imágenes tomadas de 
 
 
 ## Enlaces
-[**Código**](code)
+[**Código**](code.ipynb)
