@@ -10,4 +10,4 @@
 
 + **Modelo:** Sequential DNN
 
-[(code)](code.ipynb) [(video)]() [(repo)](https://github.com/creepstyC/ai-real-classifier)
+[(code)](code.ipynb) [(video)](https://youtu.be/r98Z7QExLCc) [(repo)](https://github.com/creepstyC/ai-real-classifier)
